@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopglu.a  CMakeFiles/opglu.dir/src/opengl_util/Opengl_Utils.cpp.o
+/usr/bin/ranlib libopglu.a
