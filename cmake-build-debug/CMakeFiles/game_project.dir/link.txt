@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/game_project.dir/main.cpp.o  -o game_project  libcube.a libopglu.a -lglut -lGL -lGLU 
